@@ -18,6 +18,8 @@ This Drum Kit project is a web-based application built using HTML, CSS, and Java
 - **HTML:** Used for structuring the drum kit interface and elements.
 - **CSS:** Used for styling the visual presentation of the drum pads and overall layout.
 - **JavaScript:** Used for implementing the interactive functionality of the drum kit, including event handling and sound playback.
+  <pre>
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" /></pre>
 
 ## Usage:
 1. **Keyboard Interaction:**
