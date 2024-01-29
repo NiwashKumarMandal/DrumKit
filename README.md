@@ -1,3 +1,5 @@
+<img src="DrumKit Cover.png" width="100%">
+
 # Drum Kit Project
 
 ## Overview:
