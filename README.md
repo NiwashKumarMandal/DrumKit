@@ -1,6 +1,8 @@
 <img src="DrumKit Cover.png" width="100%">
 
 # Drum Kit Project
+## Dive into the project
+[<img src="drum-set.png" width="65px" alt="coin-icon">](https://niwashkumarmandal.github.io/Rock-Paper-Scissors/)<span><em>(Tap on these coins to view the project)</em></span>
 
 ## Overview:
 This Drum Kit project is a web-based application built using HTML, CSS, and JavaScript. It emulates a virtual drum kit, allowing users to play different drum sounds by pressing corresponding keys on their keyboard or by clicking on virtual drum pads displayed on the screen.
